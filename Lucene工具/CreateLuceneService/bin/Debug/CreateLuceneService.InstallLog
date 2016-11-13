@@ -1,0 +1,48 @@
+﻿正在安装程序集“D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.InstallLog
+   assemblypath = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe
+正在安装服务 LuceneTongBu...
+正在日志 Application 中创建 EventLog 源 LuceneTongBu...
+正在回滚程序集“D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.InstallLog
+   assemblypath = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe
+正在将事件日志还原到源 LuceneTongBu 的前一状态。
+正在安装程序集“D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.InstallLog
+   assemblypath = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe
+正在安装服务 LuceneTongBu...
+已成功安装服务 LuceneTongBu。
+正在日志 Application 中创建 EventLog 源 LuceneTongBu...
+正在提交程序集“D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.InstallLog
+   assemblypath = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe
+正在卸载程序集“D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.InstallLog
+   assemblypath = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe
+正在移除 EventLog 源 LuceneTongBu。
+正在从系统中移除服务 LuceneTongBu...
+已成功地从系统中移除服务 LuceneTongBu。
+尝试停止服务 LuceneTongBu。
+正在安装程序集“D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.InstallLog
+   assemblypath = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe
+正在安装服务 LuceneTongBu...
+已成功安装服务 LuceneTongBu。
+正在日志 Application 中创建 EventLog 源 LuceneTongBu...
+正在提交程序集“D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.InstallLog
+   assemblypath = D:\个人项目研究\CreateLuceneService\CreateLuceneService\bin\Debug\CreateLuceneService.exe
